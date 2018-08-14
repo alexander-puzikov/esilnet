@@ -9,6 +9,7 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="ssqls" type="PLAIN_TEXT" />
+      <mapping ext="jelly" type="XML" />
     </extensionMap>
   </component>
 </application>

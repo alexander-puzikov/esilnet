@@ -1,0 +1,41 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="jelly:ant" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/ant.xsd" />
+    <resource url="jelly:antlr" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/antlr.xsd" />
+    <resource url="jelly:bean" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/bean.xsd" />
+    <resource url="jelly:beanshell" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/beanshell.xsd" />
+    <resource url="jelly:betwixt" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/betwixt.xsd" />
+    <resource url="jelly:bsf" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/bsf.xsd" />
+    <resource url="jelly:core" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/core.xsd" />
+    <resource url="jelly:define" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/define.xsd" />
+    <resource url="jelly:dynabean" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/dynabean.xsd" />
+    <resource url="jelly:email" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/email.xsd" />
+    <resource url="jelly:fmt" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/fmt.xsd" />
+    <resource url="jelly:html" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/html.xsd" />
+    <resource url="jelly:http" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/http.xsd" />
+    <resource url="jelly:interaction" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/interaction.xsd" />
+    <resource url="jelly:jaxme" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jaxme.xsd" />
+    <resource url="jelly:jetty" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jetty.xsd" />
+    <resource url="jelly:jface" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jface.xsd" />
+    <resource url="jelly:jms" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jms.xsd" />
+    <resource url="jelly:jmx" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jmx.xsd" />
+    <resource url="jelly:jsl" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/jsl.xsd" />
+    <resource url="jelly:junit" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/junit.xsd" />
+    <resource url="jelly:log" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/log.xsd" />
+    <resource url="jelly:memory" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/memory.xsd" />
+    <resource url="jelly:ojb" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/ojb.xsd" />
+    <resource url="jelly:quartz" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/quartz.xsd" />
+    <resource url="jelly:regexp" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/regexp.xsd" />
+    <resource url="jelly:soap" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/soap.xsd" />
+    <resource url="jelly:sql" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/sql.xsd" />
+    <resource url="jelly:stapler" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/stapler.xsd" />
+    <resource url="jelly:swing" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/swing.xsd" />
+    <resource url="jelly:swt" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/swt.xsd" />
+    <resource url="jelly:threads" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/threads.xsd" />
+    <resource url="jelly:util" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/util.xsd" />
+    <resource url="jelly:validate" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/validate.xsd" />
+    <resource url="jelly:velocity" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/velocity.xsd" />
+    <resource url="jelly:xml" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/xml.xsd" />
+    <resource url="jelly:xmlunit" location="$APPLICATION_PLUGINS_DIR$/idea-stapler-plugin/lib/idea-stapler-plugin.jar!/org/kohsuke/stapler/idea/resources/schemas/xmlunit.xsd" />
+  </component>
+</application>
