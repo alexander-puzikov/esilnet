@@ -22,6 +22,10 @@
           <option name="url" value="http://github.yandex-team.ru" />
           <option name="userName" value="apuzikov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.yandex-team.ru/apuzikov/test-utils.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/projects/yandex" />
